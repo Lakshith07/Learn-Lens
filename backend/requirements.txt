@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+Pillow
+google-generativeai
+python-multipart
+python-dotenv
+firebase-admin
+reportlab
+matplotlib
+python-magic-bin; platform_system == 'Windows'
+python-magic; platform_system != 'Windows'
